@@ -1,0 +1,24 @@
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# IDE files
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+UpgradeLog*.htm
+
+# Unity Asset Store package, not redistributed here. The scene doesn't use it.
+/Assets/KANIYONIKA/
+/Assets/KANIYONIKA.meta
+
+# TextMesh Pro example scenes and assets, not used by this project
+/Assets/TextMesh Pro/Examples & Extras/
+/Assets/TextMesh Pro/Examples & Extras.meta
